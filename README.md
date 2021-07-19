@@ -1,4 +1,4 @@
-# Little Read Me
+# Basic Functions
 To run this program you can edit the acutal file and run with 
 python3 ResistorBuilder.py
 
